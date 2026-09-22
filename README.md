@@ -6,6 +6,6 @@ Full Stack developer
 
 👨‍💻 MEAN/MERN stack enthusiast on a coding journey. Building web applications, solving problems, and staying up-to-date with the latest in tech. Let's create something amazing together! 🚀
 
-* ✉️  You can contact me at [jasilcheruppa@gmail.com](mailto:jasilcheruppa@gmail.com)
+* ✉️  You can contact me at [jasilcheruppa@gmail.com](mailto:jasil.muhammed.dev@gmail.com)
 * 🧠  I'm learning Full Stack
 * 🤝  I'm open to collaborating on Web Development Projects Open, Source Contributions
